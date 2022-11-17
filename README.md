@@ -1,22 +1,29 @@
 
 # Crack64Bit
 
-This is a program. 
+This program will return possible world seeds enrtiely based on data from trees in Minecraft.  Naturally a task like this would have some limitations this program is quite time consuming to run as is limited to "Text Seeds". To summarize seeds in Minecraft are 64 bits (2^64 possible unique seeds) but a 32 bit intger hash is used genrrate seeds containing text. Meaning text seeds have 2^32 possible seeds MUCH less than 2^64. In theroy this program *could* find whole 64 bit world seeds but that is EXTREMELY impractical.   
 
 
 
 
-## Docmentation
+
+## Program Use 
 This project requires you to have a few things installed: 
-- The Cuda Toolkit
-- Visual Studio Code Community 
-- IntelliJ IDEA
-- Java JDK 16 
+
+- [The Cuda Toolkit](https://developer.nvidia.com/cuda-toolkit)
+
+- [Clion](https://www.jetbrains.com/clion/)
+
  
-#CUDA 
+
+Clone this repository into Clion 
+
+```bash 
+Git clone https://github.com/TatertotGr8/Treecracker.git
+
+```
 
 
-#Environment
 
 #Java
  
