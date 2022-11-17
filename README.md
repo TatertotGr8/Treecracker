@@ -1,5 +1,5 @@
 
-# Crack64Bit
+# Tree Cracker 
 
 This program will return possible world seeds enrtiely based on data from trees in Minecraft.  Naturally a task like this would have some limitations this program is quite time consuming to run as is limited to "Text Seeds". To summarize seeds in Minecraft are 64 bits (2^64 possible unique seeds) but a 32 bit intger hash is used genrrate seeds containing text. Meaning text seeds have 2^32 possible seeds MUCH less than 2^64. In theroy this program *could* find whole 64 bit world seeds but that is EXTREMELY impractical.   
 
